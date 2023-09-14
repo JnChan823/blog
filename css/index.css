@@ -4690,7 +4690,7 @@ mjx-assistive-mml {
   }
 }
 [data-theme="dark"] #web_bg {
-  background: url(https://s1.vika.cn/space/2023/09/14/fa7de9f7138148d68174eff96f11cbee);
+  background: url(https://w.wallhaven.cc/full/jx/wallhaven-jxd9eq.jpg);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -4698,14 +4698,14 @@ mjx-assistive-mml {
 }
 @media screen and (max-width: 800px) {
   #web_bg {
-    background: url(https://s1.vika.cn/space/2022/12/29/7606f9b18b1c46a8833f4730ac70ce76) !important;
+    background: url(https://w.wallhaven.cc/full/jx/wallhaven-jxd9eq.jpg) !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
   }
   [data-theme="dark"] #web_bg {
-    background: url(https://s1.vika.cn/space/2023/03/10/3ca608c51c8444b6a9941450bcb2f034) !important;
+    background: url(https://w.wallhaven.cc/full/jx/wallhaven-jxd9eq.jpg) !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
