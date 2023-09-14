@@ -384,19 +384,21 @@
   }
    /* 页面样式调节 end */
 
-/* 自定义图标大小 start */
+/* 菜单栏图标大小 start */
+svg.menu_icon {
+    width: 1.28em;
+    height: 1.28em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+}
+/* 菜单栏图标大小 end */
+/* 社交栏图标大小 start */
 svg.social_icon {
     width: 1.20em;
     height: 1.20em;
     vertical-align: -0.15em;
     fill: currentColor;
     overflow: hidden;
-  }
-  svg.menu_icon {
-    width: 1.28em;
-    height: 1.28em;
-    vertical-align: -0.15em;
-    fill: currentColor;
-    overflow: hidden;
-  }
-/* 自定义图标大小 end */
+}
+/* 社交栏图标大小 end */
