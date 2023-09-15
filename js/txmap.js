@@ -29,8 +29,8 @@ function getDistance(e1, n1, e2, n2) {
 
 function showWelcome() {
 	let dist = getDistance(
-		25.681928,
 		114.787774,
+		25.681928,
 		ipLoacation.result.location.lng,
 		ipLoacation.result.location.lat
 	) //这里换成自己的经纬度
