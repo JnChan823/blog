@@ -4690,7 +4690,7 @@ mjx-assistive-mml {
   }
 }
 [data-theme="dark"] #web_bg {
-  background: url(https://w.wallhaven.cc/full/jx/wallhaven-jxd9eq.jpg);
+  background: url(https://picbed.jnchan.top/images/dark_mode.webp);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -4698,14 +4698,14 @@ mjx-assistive-mml {
 }
 @media screen and (max-width: 800px) {
   #web_bg {
-    background: url(https://w.wallhaven.cc/full/jx/wallhaven-jxd9eq.jpg) !important;
+    background: url(https://picbed.jnchan.top/images/DM_20230914195344_007.webp) !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
   }
   [data-theme="dark"] #web_bg {
-    background: url(https://w.wallhaven.cc/full/jx/wallhaven-jxd9eq.jpg) !important;
+    background: url(https://picbed.jnchan.top/images/DM_20230914195344_008.webp) !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
